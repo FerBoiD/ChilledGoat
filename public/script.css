@@ -1,0 +1,26 @@
+.navbar-brand{
+     font-size: 80px;
+     margin-right: 5%
+     
+}
+body{
+      font-family: teko;
+	  font-weight: bold;
+	  background-color: rgb(163, 163, 163);
+
+}
+ div{
+ 	font-size: 25px;
+ }
+ .navbar{
+ 	margin-top: 3%;
+ 	margin-left: 4%
+ }
+ li{
+ 	margin-right: 5%
+ }
+
+ .imgs img{
+	 margin-bottom: 2rem;
+	 padding: 4px;
+ }
